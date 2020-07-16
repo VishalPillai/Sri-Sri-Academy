@@ -1,0 +1,75 @@
+#myCarousel {
+    background-color:;
+}
+
+#myCarousel img {
+    height: 400px;
+    width:700px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+#contact iframe {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+h1{
+    margin-top: 50px;
+}
+#header{
+    font-family: 'Fondamento', cursive;
+    font-size:25px;
+    color: deepskyblue
+}
+#gurudevwording{
+    font-size:20px;
+    font-family: 'Merienda One', cursive;
+    font-weight: bold;
+    color:gold
+}
+#ContactImage{
+    width:80px;
+}
+#achievementsh{
+    font-size:30px;
+    font-family: 'Fondamento', cursive;
+    color: deepskyblue;
+    font-weight: bold;
+}
+#achievementsp{
+    
+}
+form{
+    width:300px;
+}
+input{
+ width:100%;   
+}
+form button{
+  background-color:yellow;
+    font-weight:bold;
+}
+li{
+  font-family: 'Fondamento', cursive ; 
+  
+}
+li:hover{
+    font-size:18px;
+}
+#myNavbar{
+ background-color:darkblue;
+}
+#achievement1{
+   height:400px;
+}
+#achievementsp{
+  font-family: 'Fondamento', cursive ; 
+    font-size:23px;
+}
